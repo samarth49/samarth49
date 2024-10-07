@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I’m a Full Stack Web Developer. Always Learning and Exploring!<br>🔍 My areas of interests are Web Dev and Data Structures & Algorithms<br>👯 I’m looking to collaborate on MERN Stack Projects
+😎 I’m a Full Stack Web Developer. Always Learning and Exploring!<br>🔍 My areas of interests are Web Dev and Data Structures & Algorithms<br>👯 I’m looking to collaborate on MERN Stack Projects.
 
 
 ## 🌐 Socials:
